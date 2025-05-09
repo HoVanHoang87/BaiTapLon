@@ -1,2 +1,2 @@
-# BaiTapLon
- “Dự án thu thập dữ liệu từ VnExpress chuyên mục Khoa học”
+# vnexpress-scraper
+Web hiển thị tin tức khoa học từ VnExpress
